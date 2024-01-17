@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    font-family: cursive;
+    color :  brown;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    font-family: cursive;
+    color :  brown;
+}
+
+.recipes{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 50px;
+ 
+
+}
+
+.recipes li{
+
+    font-size: 20px;
+    padding-top: 15px;
+    font-family: monospace;
+    
+}
